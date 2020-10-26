@@ -9,13 +9,13 @@ public class Main {
         
     BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     Scanner scanner = new Scanner(System.in);
-    String enteryData = "         ";
+    String enteryData1 = "         ";
 
     String [][] field = new String [3][3];
     for (int i = 0; i < 3; i++) {
         for (int j = 0; j < 3; j++) {
-            field[i][j] = enteryData.substring(0, 1);
-            enteryData = enteryData.substring(1);
+            field[i][j] = enteryData1.substring(0, 1);
+            enteryData1 = enteryData1.substring(1);
         }
     }
     System.out.println("---------");
