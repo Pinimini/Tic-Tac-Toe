@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes/Tic-Tac-Toe.Problems-Boxes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes/Tic-Tac-Toe.Problems-Boxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes/Tic-Tac-Toe.Problems-Boxes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes/Tic-Tac-Toe.Problems-Boxes.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes/Tic-Tac-Toe.Problems-Boxes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes/Tic-Tac-Toe.Problems-Boxes.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N/Tic-Tac-Toe.Problems-Does_an_array_contain_N.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N/Tic-Tac-Toe.Problems-Does_an_array_contain_N.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N/Tic-Tac-Toe.Problems-Does_an_array_contain_N.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N/Tic-Tac-Toe.Problems-Does_an_array_contain_N.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N/Tic-Tac-Toe.Problems-Does_an_array_contain_N.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N/Tic-Tac-Toe.Problems-Does_an_array_contain_N.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Tic-Tac-Toe.Problems-Right_Rotation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Tic-Tac-Toe.Problems-Right_Rotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Tic-Tac-Toe.Problems-Right_Rotation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Tic-Tac-Toe.Problems-Right_Rotation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Tic-Tac-Toe.Problems-Right_Rotation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Tic-Tac-Toe.Problems-Right_Rotation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" />
+    </modules>
+  </component>
+</project>
